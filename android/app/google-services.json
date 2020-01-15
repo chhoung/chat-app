@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473620812027",
+    "firebase_url": "https://flash-chat-dab4b.firebaseio.com",
+    "project_id": "flash-chat-dab4b",
+    "storage_bucket": "flash-chat-dab4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473620812027:android:4f55ef40bc975117ece05e",
+        "android_client_info": {
+          "package_name": "co.kimchhorng.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473620812027-a8bcv76l69nrsuh0dm0viu9kl3euvac2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2WlHGrIKbStskR85-ZeOdWA-v8soYVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473620812027-a8bcv76l69nrsuh0dm0viu9kl3euvac2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
